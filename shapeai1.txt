@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Stats for - THIRUVANANTHAPURAM  || 23 Jun 2021 | 03:51:17 PM
+-------------------------------------------------------------
+Current temperature is: 26.99 deg C
+Current weather desc  : mist
+Current Humidity      : 94 %
+Current wind speed    : 2.57 kmph
